@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+@theme {
+  --font-baloo: var(--font-baloo), "Baloo 2", sans-serif;
+  --font-nunito: var(--font-nunito), "Nunito", sans-serif;
+
+  /* System accent palette, also available as Tailwind color utilities. */
+  --color-ink: #0b1020;
+  --color-panel: #0b1220;
+  --color-panel-deep: #0a0f1c;
+  --color-edge: #2c3a56;
+  --color-edge-soft: #3d4e75;
+  --color-muted: #c9d3e6;
+  --color-bright: #f1f4fa;
+  --color-neuro: #b794ff;
+  --color-immune: #3dffc0;
+  --color-endo: #ffc93c;
+  --color-resp: #4fd3ff;
+  --color-mixed: #ff7fc0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-nunito);
+  background: radial-gradient(circle at top, #202b45, #0b1020 60%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  padding-bottom: 40px;
+  color: var(--color-bright);
+}
+
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3d4e75;
+  border-radius: 10px;
+}
+
+button {
+  font-family: inherit;
+}
+button:focus-visible {
+  outline: 2px solid #ff7fc0;
+  outline-offset: 2px;
+}
+
+.font-baloo {
+  font-family: var(--font-baloo);
+}
+
+.hero-gradient-text {
+  background: linear-gradient(90deg, #b794ff, #4fd3ff, #ffc93c, #3dffc0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Respect users who prefer reduced motion for the transitions below. */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
