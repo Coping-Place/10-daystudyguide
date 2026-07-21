@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "system": "neuro",
+    "text": "A nurse assesses a client and finds them increasingly difficult to arouse compared to one hour ago. What is the priority nursing action?",
+    "options": {
+      "A": "Document and reassess in 2 hours",
+      "B": "Notify the provider immediately \u2014 LOC is the most sensitive indicator of neuro change",
+      "C": "Increase IV fluids",
+      "D": "Reposition the client and recheck in 30 minutes"
+    },
+    "correct": "B",
+    "trapLogic": "ATI wants you to recognize that ANY downward trend in LOC is the earliest and most sensitive sign of neuro deterioration \u2014 it always outranks 'wait and see' options."
+  },
+  {
+    "id": 2,
+    "system": "neuro",
+    "text": "Which categories of causes should the nurse consider when a client presents with new altered LOC of unknown origin? (Select all that apply \u2014 think AEIOU TIPS)",
+    "options": {
+      "A": "Metabolic",
+      "B": "Structural",
+      "C": "Purely psychological, rule out all physical causes first",
+      "D": "Toxic and infectious"
+    },
+    "correct": "C",
+    "trapLogic": "The trap answer says to rule out physical causes 'first' as if psych is separate \u2014 ATI wants LOC worked up broadly (metabolic/structural/toxic/infectious) simultaneously, not sequentially dismissing physical causes."
+  },
+  {
+    "id": 3,
+    "system": "neuro",
+    "text": "A client has a single seizure after a high fever. The nurse understands this client does NOT yet meet the definition of epilepsy because:",
+    "options": {
+      "A": "Epilepsy requires surgery to diagnose",
+      "B": "Epilepsy = 2 or more UNPROVOKED seizures; this seizure was provoked (fever)",
+      "C": "Epilepsy only applies to children",
+      "D": "One seizure always requires antiepileptic drugs"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: students confuse 'seizure' with 'epilepsy.' A provoked, single seizure is not epilepsy \u2014 epilepsy needs recurrence AND no clear provoking cause."
+  },
+  {
+    "id": 4,
+    "system": "neuro",
+    "text": "The nurse is differentiating a vegetative state from a coma. Which finding is consistent with a vegetative state rather than coma?",
+    "options": {
+      "A": "Eyes remain closed at all times",
+      "B": "No sleep-wake cycle at all",
+      "C": "Eyes open with sleep-wake cycles present, but no awareness",
+      "D": "Purposeful response to painful stimuli"
+    },
+    "correct": "C",
+    "trapLogic": "Trap: 'eyes open' makes students think 'awake/aware.' Vegetative state = eyes OPEN, cycles present, but zero awareness \u2014 that combination is the whole trap."
+  },
+  {
+    "id": 5,
+    "system": "neuro",
+    "text": "A client arrives with ischemic stroke symptoms that began 2 hours ago. Which finding would EXCLUDE the client from receiving tPA?",
+    "options": {
+      "A": "Blood glucose of 110",
+      "B": "BP of 190/115 that cannot be lowered below 185/110",
+      "C": "Symptom onset within 3 hours",
+      "D": "No history of hemorrhage"
+    },
+    "correct": "B",
+    "trapLogic": "ATI loves testing the exact BP cutoff (<185/110) as an exclusion criterion \u2014 a BP just above threshold is the trap distractor."
+  },
+  {
+    "id": 6,
+    "system": "neuro",
+    "text": "Which order should the nurse question in the first 24 hours after a client receives tPA for ischemic stroke?",
+    "options": {
+      "A": "Neuro checks every hour",
+      "B": "Aspirin 81 mg now",
+      "C": "Bedrest with HOB 0-30 degrees",
+      "D": "Blood glucose monitoring"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: anticoagulants/antiplatelets are held for 24 hours post-tPA due to bleeding risk \u2014 a 'reasonable-sounding' med order is exactly what ATI slips in."
+  },
+  {
+    "id": 7,
+    "system": "neuro",
+    "text": "Before giving a stroke client their first meal, what must the nurse do first?",
+    "options": {
+      "A": "Assist to a full upright position and serve a regular diet",
+      "B": "Perform a swallowing/dysphagia screen",
+      "C": "Administer the client's routine medications with food",
+      "D": "Ask the family to feed the client"
+    },
+    "correct": "B",
+    "trapLogic": "Classic sequencing trap \u2014 swallow screening must occur BEFORE any oral intake including meds, water, or food, due to aspiration risk."
+  },
+  {
+    "id": 8,
+    "system": "neuro",
+    "text": "In the acute phase of ischemic stroke (without elevated ICP), what head-of-bed position optimizes cerebral perfusion?",
+    "options": {
+      "A": "High Fowler's, 90 degrees",
+      "B": "Flat, 0 degrees only, never elevated",
+      "C": "0-30 degrees",
+      "D": "Trendelenburg position"
+    },
+    "correct": "C",
+    "trapLogic": "Trap: students think 'flat is always best for perfusion' \u2014 the actual range is 0-30\u00b0, and this changes if ICP is elevated (then higher HOB is used instead)."
+  },
+  {
+    "id": 9,
+    "system": "neuro",
+    "text": "A client with multiple sclerosis reports that symptoms worsen after a hot shower. The nurse explains this is due to:",
+    "options": {
+      "A": "A new relapse requiring IV steroids",
+      "B": "Uhthoff's phenomenon \u2014 heat temporarily worsens nerve conduction, it is NOT a true relapse",
+      "C": "An allergic reaction to soap",
+      "D": "Normal disease progression requiring medication change"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: students panic and think 'relapse.' Heat-related worsening is Uhthoff's phenomenon \u2014 temporary, resolves with cooling, not a true exacerbation."
+  },
+  {
+    "id": 10,
+    "system": "neuro",
+    "text": "An MS client is having an acute relapse. Which treatment does the nurse anticipate?",
+    "options": {
+      "A": "Oral acetaminophen only",
+      "B": "High-dose IV methylprednisolone",
+      "C": "Antibiotics",
+      "D": "Insulin"
+    },
+    "correct": "B",
+    "trapLogic": "Straightforward recall trap disguised with distractors that sound 'supportive care' but aren't the actual first-line relapse treatment."
+  },
+  {
+    "id": 11,
+    "system": "neuro",
+    "text": "Which client is at HIGHEST risk for peripheral neuropathy with a 'stocking-glove' symptom distribution?",
+    "options": {
+      "A": "A client with well-controlled hypertension",
+      "B": "A client with poorly controlled type 2 diabetes",
+      "C": "A client with seasonal allergies",
+      "D": "A client recovering from a broken arm"
+    },
+    "correct": "B",
+    "trapLogic": "Diabetes is the #1 cause of peripheral neuropathy \u2014 ATI often buries this fact among unrelated but plausible-sounding conditions."
+  },
+  {
+    "id": 12,
+    "system": "neuro",
+    "text": "A client diagnosed with Bell's palsy is being treated within 72 hours of onset. Which medication class does the nurse expect?",
+    "options": {
+      "A": "NSAIDs only",
+      "B": "Corticosteroids (e.g., prednisone)",
+      "C": "Insulin",
+      "D": "Anticoagulants"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: timing matters \u2014 corticosteroids are most effective when started within 72 hours; this detail is often tested directly."
+  },
+  {
+    "id": 13,
+    "system": "neuro",
+    "text": "What is the PRIORITY nursing intervention for a client with Bell's palsy who cannot fully close one eye?",
+    "options": {
+      "A": "Encourage chewing on the affected side",
+      "B": "Apply lubricating eye drops and protect the cornea (e.g., eye patch at night)",
+      "C": "Restrict all fluids",
+      "D": "Apply ice to the affected side continuously"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: 'chewing on affected side' sounds like a nursing tip but is actually backwards \u2014 patients are taught to chew on the UNAFFECTED side. The real priority is corneal protection."
+  },
+  {
+    "id": 14,
+    "system": "neuro",
+    "text": "A client with myasthenia gravis reports that muscle weakness is worse in the evening than in the morning. The nurse recognizes this as:",
+    "options": {
+      "A": "An unrelated new problem requiring immediate workup",
+      "B": "The expected pattern of MG \u2014 weakness worsens with activity/as the day progresses, improves with rest",
+      "C": "A sign the client is faking symptoms",
+      "D": "A stroke in progress"
+    },
+    "correct": "B",
+    "trapLogic": "Core disease-pattern trap: MG weakness fluctuates with activity/time of day. Missing this leads to over-treating a 'new' problem that is actually classic MG."
+  },
+  {
+    "id": 15,
+    "system": "neuro",
+    "text": "What is the PRIORITY teaching point for a client newly prescribed pyridostigmine (Mestinon) for myasthenia gravis?",
+    "options": {
+      "A": "Take the medication only when symptoms are severe",
+      "B": "Take the medication ON TIME, exactly as scheduled, even if feeling well",
+      "C": "Double the dose if a dose is missed",
+      "D": "Take with an antacid to prevent stomach upset"
+    },
+    "correct": "B",
+    "trapLogic": "Timing is everything with Mestinon \u2014 a late dose can precipitate a myasthenic crisis. ATI tests strict adherence to schedule, not PRN or 'as needed' framing."
+  },
+  {
+    "id": 16,
+    "system": "neuro",
+    "text": "A client with Guillain-Barr\u00e9 syndrome has ascending weakness now at the level of the mid-thigh. What is the PRIORITY nursing assessment?",
+    "options": {
+      "A": "Bowel sounds",
+      "B": "Respiratory status \u2014 rate, SpO2, negative inspiratory force",
+      "C": "Skin integrity",
+      "D": "Pain level"
+    },
+    "correct": "B",
+    "trapLogic": "Because paralysis ascends toward the trunk/diaphragm, respiratory failure is the #1 life-threatening complication in GBS \u2014 always the priority answer when GBS is ascending."
+  },
+  {
+    "id": 17,
+    "system": "neuro",
+    "text": "Which finding on CSF analysis is expected in Guillain-Barr\u00e9 syndrome, and which treatment should the nurse question?",
+    "options": {
+      "A": "Low protein/high WBC is expected; corticosteroids are first-line",
+      "B": "High protein/normal WBC (albuminocytologic dissociation) is expected; corticosteroids may WORSEN GBS and are avoided",
+      "C": "High protein/high WBC is expected; IVIG is contraindicated",
+      "D": "CSF findings are normal in GBS; antibiotics are first-line"
+    },
+    "correct": "B",
+    "trapLogic": "Double trap in one question: (1) know the specific CSF pattern, and (2) know that corticosteroids \u2014 normally a 'go-to' for autoimmune disease \u2014 are NOT used in GBS."
+  },
+  {
+    "id": 18,
+    "system": "neuro",
+    "text": "A 4-year-old boy has difficulty rising from the floor by 'walking his hands up his legs' and has calf enlargement. The nurse recognizes these findings as characteristic of:",
+    "options": {
+      "A": "Guillain-Barr\u00e9 syndrome",
+      "B": "Duchenne muscular dystrophy \u2014 Gowers' sign and pseudohypertrophy of the calves",
+      "C": "Myasthenia gravis",
+      "D": "Bell's palsy"
+    },
+    "correct": "B",
+    "trapLogic": "Classic pediatric presentation trap \u2014 Gowers' sign + calf pseudohypertrophy + young male = Duchenne MD, distinct from the adult autoimmune conditions in the same unit."
+  },
+  {
+    "id": 19,
+    "system": "immune",
+    "text": "A client develops sudden difficulty breathing, hives, and facial swelling after a bee sting. What is the FIRST medication the nurse should administer?",
+    "options": {
+      "A": "Diphenhydramine (Benadryl)",
+      "B": "Epinephrine IM",
+      "C": "Methylprednisolone IV",
+      "D": "Albuterol nebulizer"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: antihistamines and steroids are supportive, but epinephrine is always the first-line, life-saving drug in true anaphylaxis \u2014 a common ATI sequencing trap."
+  },
+  {
+    "id": 20,
+    "system": "immune",
+    "text": "A client with hereditary angioedema (HAE) is having a laryngeal swelling episode. Why won't epinephrine relieve this episode?",
+    "options": {
+      "A": "HAE is IgE-mediated just like allergic angioedema, so epinephrine should work identically",
+      "B": "HAE is bradykinin-mediated (C1-inhibitor deficiency), not histamine-mediated, so epinephrine has little effect",
+      "C": "The client is allergic to epinephrine",
+      "D": "Epinephrine only works on the skin, not the airway"
+    },
+    "correct": "B",
+    "trapLogic": "This is THE classic angioedema trap \u2014 students assume all angioedema responds to epi. HAE needs C1-inhibitor concentrate or icatibant instead."
+  },
+  {
+    "id": 21,
+    "system": "immune",
+    "text": "A client taking lisinopril develops lip and tongue swelling with no urticaria. What is the priority action?",
+    "options": {
+      "A": "Give epinephrine and continue the lisinopril",
+      "B": "Hold/discontinue the ACE inhibitor and notify the provider; anticipate switching to an ARB",
+      "C": "Increase the lisinopril dose",
+      "D": "Reassure the client this is expected and no action is needed"
+    },
+    "correct": "B",
+    "trapLogic": "No urticaria + ACE inhibitor use = bradykinin-mediated angioedema trap. The fix is stopping the drug, not treating it like classic allergic angioedema."
+  },
+  {
+    "id": 22,
+    "system": "immune",
+    "text": "What is the first-line treatment for seasonal allergic rhinitis?",
+    "options": {
+      "A": "Oral decongestants only",
+      "B": "Intranasal corticosteroids",
+      "C": "Oral antibiotics",
+      "D": "Immunotherapy as the very first step"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: antibiotics are a distractor since rhinitis isn't bacterial; immunotherapy is real but not first-line \u2014 intranasal steroids are."
+  },
+  {
+    "id": 23,
+    "system": "immune",
+    "text": "A client has a BMI of 41. How does the nurse classify this?",
+    "options": {
+      "A": "Overweight",
+      "B": "Obese (BMI 30-39.9)",
+      "C": "Morbid obesity (BMI \u226540)",
+      "D": "Normal weight"
+    },
+    "correct": "C",
+    "trapLogic": "Precise cutoff trap: 30 = obese threshold, 40 = morbid obesity threshold. A BMI of 41 crosses into the second, more severe category."
+  },
+  {
+    "id": 24,
+    "system": "immune",
+    "text": "Which waist circumference indicates increased metabolic risk in a male client?",
+    "options": {
+      "A": "Greater than 30 inches",
+      "B": "Greater than 40 inches",
+      "C": "Greater than 25 inches",
+      "D": "Waist circumference is not a risk indicator"
+    },
+    "correct": "B",
+    "trapLogic": "Exact-number recall trap: >40 inches (men) and >35 inches (women) are the metabolic risk thresholds."
+  },
+  {
+    "id": 25,
+    "system": "immune",
+    "text": "A client's CD4+ count is 180 cells/mm3. The nurse understands this client:",
+    "options": {
+      "A": "Has a normal immune status",
+      "B": "Meets the criteria for an AIDS-defining diagnosis (CD4 <200)",
+      "C": "Needs no additional monitoring",
+      "D": "Has an active bacterial infection only"
+    },
+    "correct": "B",
+    "trapLogic": "Threshold recall trap: CD4 <200 defines AIDS regardless of symptoms \u2014 a value just under 200 is the classic trap number."
+  },
+  {
+    "id": 26,
+    "system": "immune",
+    "text": "Which assessment is the PRIORITY in the first few hours after a thyroidectomy?",
+    "options": {
+      "A": "Assessing for hemorrhage/swelling and respiratory distress at the surgical site",
+      "B": "Assessing bowel sounds",
+      "C": "Assessing for weight gain",
+      "D": "Assessing hair texture"
+    },
+    "correct": "A",
+    "trapLogic": "Airway trumps everything post-thyroidectomy \u2014 swelling can rapidly compress the airway, making this the immediate life-threat priority."
+  },
+  {
+    "id": 27,
+    "system": "immune",
+    "text": "A post-thyroidectomy client's hand spasms when a blood pressure cuff is inflated above systolic pressure. This is a positive:",
+    "options": {
+      "A": "Chvostek's sign",
+      "B": "Trousseau's sign, indicating hypocalcemia",
+      "C": "Homan's sign",
+      "D": "Babinski sign"
+    },
+    "correct": "B",
+    "trapLogic": "Sign-matching trap: Chvostek = tapping the facial nerve/cheek; Trousseau = BP cuff-induced carpal spasm. Both indicate hypocalcemia post-thyroidectomy, but the triggers are commonly swapped in test questions."
+  },
+  {
+    "id": 28,
+    "system": "immune",
+    "text": "Which type of thyroid cancer carries the WORST prognosis?",
+    "options": {
+      "A": "Papillary",
+      "B": "Follicular",
+      "C": "Medullary",
+      "D": "Anaplastic"
+    },
+    "correct": "D",
+    "trapLogic": "Trap: papillary is most common AND has the BEST prognosis \u2014 students sometimes assume 'most common' means 'most dangerous.' Anaplastic is rare but most aggressive/worst prognosis."
+  },
+  {
+    "id": 29,
+    "system": "immune",
+    "text": "A client with type 1 diabetes presents with fruity breath, Kussmaul respirations, and a glucose of 480. The nurse suspects:",
+    "options": {
+      "A": "Hyperosmolar hyperglycemic state (HHS)",
+      "B": "Diabetic ketoacidosis (DKA)",
+      "C": "Hypoglycemia",
+      "D": "Somogyi effect only"
+    },
+    "correct": "B",
+    "trapLogic": "DKA hallmark trio: ketones (fruity breath), Kussmaul respirations, and moderately-high (not extreme) glucose \u2014 distinct from HHS's much higher glucose with no ketones."
+  },
+  {
+    "id": 30,
+    "system": "immune",
+    "text": "A client with type 2 diabetes has a glucose of 950, no ketones, and profound dehydration with altered mental status developing over several days. This presentation is most consistent with:",
+    "options": {
+      "A": "DKA",
+      "B": "HHS",
+      "C": "Hypoglycemia",
+      "D": "Normal aging"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: absence of ketones plus extremely high glucose and SLOW onset over days = HHS, not DKA \u2014 students often default to DKA any time glucose is critically elevated."
+  },
+  {
+    "id": 31,
+    "system": "immune",
+    "text": "A client reports feeling shaky, sweaty, and confused. Fingerstick glucose is 58. What is the PRIORITY action?",
+    "options": {
+      "A": "Administer regular insulin",
+      "B": "Give a fast-acting oral carbohydrate (e.g., glucose tablets or juice) if the client can swallow safely",
+      "C": "Call a rapid response and wait for the provider",
+      "D": "Restrict all oral intake until the provider arrives"
+    },
+    "correct": "B",
+    "trapLogic": "Classic hypoglycemia trap: giving insulin would worsen a low blood sugar. The priority is fast carbohydrate, not more insulin or delay."
+  },
+  {
+    "id": 32,
+    "system": "immune",
+    "text": "When teaching diabetic foot care, which statement by the client indicates a need for further teaching?",
+    "options": {
+      "A": "\"I will inspect my feet every day.\"",
+      "B": "\"I will moisturize my feet, including between my toes, every night.\"",
+      "C": "\"I will never walk barefoot.\"",
+      "D": "\"I will see my podiatrist regularly.\""
+    },
+    "correct": "B",
+    "trapLogic": "Subtle wording trap: moisturizer should be applied to the feet but NOT between the toes, since trapped moisture there promotes fungal infection and breakdown."
+  },
+  {
+    "id": 33,
+    "system": "immune",
+    "text": "How often should a client with poorly controlled diabetes have their A1c checked?",
+    "options": {
+      "A": "Every 3 months",
+      "B": "Every 6 months",
+      "C": "Once a year",
+      "D": "A1c is not monitored regularly"
+    },
+    "correct": "A",
+    "trapLogic": "Frequency trap: q3 months applies when UNcontrolled; q6 months applies once STABLE. Reading the stem carefully (poorly controlled) determines the correct interval."
+  },
+  {
+    "id": 34,
+    "system": "immune",
+    "text": "A nurse disagrees with a plan of care and needs to escalate the concern using a structured communication tool. Which phrase reflects appropriate use of CUS words?",
+    "options": {
+      "A": "\"I really don't think that's a good idea.\"",
+      "B": "\"I am Concerned, I am Uncomfortable, this is a Safety issue.\"",
+      "C": "\"Whatever you think is best, doctor.\"",
+      "D": "\"I'll just chart my disagreement and move on.\""
+    },
+    "correct": "B",
+    "trapLogic": "ATI tests recognition of the exact CUS framework as the professional escalation tool, versus vague or passive alternatives."
+  },
+  {
+    "id": 35,
+    "system": "respiratory",
+    "text": "On percussion, the nurse notes a hyperresonant sound over the client's chest. This finding is most consistent with:",
+    "options": {
+      "A": "Pneumonia with consolidation",
+      "B": "Pleural effusion",
+      "C": "Emphysema or pneumothorax (excess air)",
+      "D": "Normal lung tissue"
+    },
+    "correct": "C",
+    "trapLogic": "Sound-to-pathology matching trap: hyperresonance = too much air (emphysema/pneumothorax); dullness = fluid or solid tissue (effusion/consolidation) \u2014 these are frequently swapped in distractors."
+  },
+  {
+    "id": 36,
+    "system": "respiratory",
+    "text": "Tactile fremitus is INCREASED over an area of the lung. This suggests:",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Pleural effusion",
+      "C": "Consolidation (e.g., pneumonia)",
+      "D": "Normal aeration"
+    },
+    "correct": "C",
+    "trapLogic": "Fremitus increases when sound travels better through solid/consolidated tissue; it decreases with air or fluid in the way (pneumothorax/effusion) \u2014 a frequently reversed detail on ATI exams."
+  },
+  {
+    "id": 37,
+    "system": "respiratory",
+    "text": "A client scores high on the STOP-BANG questionnaire. Which finding contributed to this score?",
+    "options": {
+      "A": "BMI of 22",
+      "B": "Neck circumference within normal limits",
+      "C": "BMI greater than 35 and observed apnea episodes",
+      "D": "Female gender under 40"
+    },
+    "correct": "C",
+    "trapLogic": "Recognizing STOP-BANG risk factors (snoring, tiredness, observed apnea, pressure/BP, BMI>35, age>50, neck size, male gender) versus normal/negative findings is the core skill tested."
+  },
+  {
+    "id": 38,
+    "system": "respiratory",
+    "text": "What item must ALWAYS be kept at the bedside of a client with a new tracheostomy?",
+    "options": {
+      "A": "A nasal cannula",
+      "B": "A spare tracheostomy tube (same size) and obturator",
+      "C": "An incentive spirometer",
+      "D": "A nebulizer mask"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: distractors are plausible respiratory equipment, but the specific, testable safety rule is the spare same-size trach tube + obturator for emergency reinsertion."
+  },
+  {
+    "id": 39,
+    "system": "respiratory",
+    "text": "When suctioning a tracheostomy, which technique is correct?",
+    "options": {
+      "A": "Apply suction while inserting the catheter",
+      "B": "Insert without suction, apply suction only on withdrawal, for a maximum of 10 seconds",
+      "C": "Suction continuously for up to 30 seconds for a thorough clean",
+      "D": "Suction only once every 8 hours regardless of secretions"
+    },
+    "correct": "B",
+    "trapLogic": "Sequencing + time-limit trap: suction is applied on withdrawal only, capped at 10 seconds, to prevent hypoxia and mucosal trauma."
+  },
+  {
+    "id": 40,
+    "system": "respiratory",
+    "text": "When should a tracheostomy cuff be inflated?",
+    "options": {
+      "A": "Only at night",
+      "B": "Never \u2014 cuffs should always remain deflated",
+      "C": "During meals and while on mechanical ventilation",
+      "D": "Only during suctioning"
+    },
+    "correct": "C",
+    "trapLogic": "Cuff-timing trap: inflated during feeding/ventilation to protect the airway and prevent aspiration; deflated at other times per protocol to reduce tracheal injury risk."
+  },
+  {
+    "id": 41,
+    "system": "respiratory",
+    "text": "A client reports hoarseness that has persisted for 3 weeks. What should the nurse prioritize?",
+    "options": {
+      "A": "Reassure the client this is likely a common cold and will resolve",
+      "B": "Recognize this as a red flag requiring further evaluation for laryngeal cancer",
+      "C": "Recommend voice rest only, no referral needed",
+      "D": "Wait another month before referring"
+    },
+    "correct": "B",
+    "trapLogic": "Trap: hoarseness >2 weeks is explicitly a red-flag symptom for laryngeal cancer, not something to attribute to a cold \u2014 the exact duration cutoff is testable."
+  },
+  {
+    "id": 42,
+    "system": "respiratory",
+    "text": "A client had a total laryngectomy. Which action is CONTRAINDICATED?",
+    "options": {
+      "A": "Teaching stoma care",
+      "B": "Placing a standard non-rebreather mask over the nose and mouth for oxygen",
+      "C": "Using a stoma mask for oxygen delivery",
+      "D": "Teaching an electrolarynx for communication"
+    },
+    "correct": "B",
+    "trapLogic": "Core anatomy trap: after laryngectomy, the airway is ONLY through the stoma \u2014 an NRB mask over nose/mouth would deliver no oxygen at all and must never be used."
+  },
+  {
+    "id": 43,
+    "system": "respiratory",
+    "text": "Which position best reduces aspiration risk in a client receiving tube feedings?",
+    "options": {
+      "A": "Supine, flat",
+      "B": "HOB elevated 30-45 degrees",
+      "C": "Trendelenburg",
+      "D": "Left lateral, flat"
+    },
+    "correct": "B",
+    "trapLogic": "Standard aspiration-precaution recall \u2014 HOB 30-45\u00b0 during and after feeds is the tested safety measure, versus flat/supine positioning which increases risk."
+  },
+  {
+    "id": 44,
+    "system": "respiratory",
+    "text": "A client with an altered LOC who has been lying supine develops a fever and productive cough. A chest X-ray shows an infiltrate. Which lobe is MOST likely involved?",
+    "options": {
+      "A": "Left upper lobe",
+      "B": "Right lower lobe (RLL)",
+      "C": "Bilateral upper lobes",
+      "D": "Lingula only"
+    },
+    "correct": "B",
+    "trapLogic": "Gravity-dependent trap: in a supine patient, aspirated material most commonly settles in the right lower lobe due to the anatomy of the right mainstem bronchus."
+  },
+  {
+    "id": 45,
+    "system": "respiratory",
+    "text": "A client develops pneumonia symptoms 5 days after hospital admission for an unrelated surgery. How is this classified?",
+    "options": {
+      "A": "Community-acquired pneumonia (CAP)",
+      "B": "Hospital-acquired pneumonia (HAP) \u2014 onset after 48 hours of admission",
+      "C": "Ventilator-associated pneumonia (VAP) only",
+      "D": "Aspiration pneumonia only, regardless of timing"
+    },
+    "correct": "B",
+    "trapLogic": "Definition/timing trap: HAP is defined by onset AFTER 48 hours of hospitalization; a symptom onset at day 5 clearly fits HAP, not CAP."
+  },
+  {
+    "id": 46,
+    "system": "respiratory",
+    "text": "Which lung cancer type is most strongly associated with paraneoplastic syndromes and is considered the most aggressive?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Small cell lung cancer (SCLC)",
+      "D": "Large cell carcinoma"
+    },
+    "correct": "C",
+    "trapLogic": "Subtype trap: NSCLC subtypes (adeno, squamous, large cell) are grouped together, but SCLC stands apart as the most aggressive with strong paraneoplastic association."
+  },
+  {
+    "id": 47,
+    "system": "respiratory",
+    "text": "A client has a productive cough for 4 months this year and had a similar pattern last year as well. This history is consistent with which component of COPD?",
+    "options": {
+      "A": "Emphysema",
+      "B": "Chronic bronchitis (productive cough \u22653 months/year for \u22652 consecutive years)",
+      "C": "Asthma",
+      "D": "Acute bronchitis only"
+    },
+    "correct": "B",
+    "trapLogic": "Exact-duration definitional trap: chronic bronchitis requires a productive cough for 3+ months per year for 2+ consecutive years \u2014 a 'close but not quite' duration is a common distractor."
+  },
+  {
+    "id": 48,
+    "system": "respiratory",
+    "text": "What is the key feature that distinguishes asthma from COPD?",
+    "options": {
+      "A": "Asthma airway obstruction is largely REVERSIBLE; COPD obstruction is largely irreversible",
+      "B": "Asthma only affects children",
+      "C": "COPD is always reversible with bronchodilators",
+      "D": "There is no meaningful difference between the two"
+    },
+    "correct": "A",
+    "trapLogic": "Core pathophysiology trap tested repeatedly: reversibility is the defining distinction, not age group or medication response alone."
+  },
+  {
+    "id": 49,
+    "system": "respiratory",
+    "text": "A client using a dry powder inhaler (DPI) needs to inhale:",
+    "options": {
+      "A": "Slowly, over several seconds, like an MDI",
+      "B": "Quickly and forcefully to activate and disperse the powder",
+      "C": "Not at all \u2014 DPIs are exhaled into",
+      "D": "Only during an acute asthma attack"
+    },
+    "correct": "B",
+    "trapLogic": "Technique-reversal trap: MDIs require a SLOW inhalation; DPIs require a FAST, forceful inhalation \u2014 the opposite technique. DPIs are also not recommended during acute attacks since the client often can't generate enough inspiratory force."
+  },
+  {
+    "id": 50,
+    "system": "respiratory",
+    "text": "Which diagnostic result confirms a diagnosis of cystic fibrosis, and when should pancreatic enzyme replacement be taken?",
+    "options": {
+      "A": "Sweat chloride <30 mEq/L; enzymes taken once daily at bedtime",
+      "B": "Sweat chloride >60 mEq/L; enzymes taken with ALL meals and snacks",
+      "C": "Sweat chloride is not used for diagnosis; enzymes taken only with breakfast",
+      "D": "A normal sweat chloride test with enzymes taken on an empty stomach"
+    },
+    "correct": "B",
+    "trapLogic": "Two-part recall trap: know both the diagnostic cutoff (sweat chloride >60 mEq/L) AND the practical teaching point (enzymes must go with every meal/snack, not just once daily)."
+  }
+]
