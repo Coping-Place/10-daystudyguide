@@ -26,6 +26,9 @@ Maps session outputs to Feature-Sliced Destinations (docs + shared, not app runt
 | **docs / plans** | `docs/plans/` | Dual Vercel + mobile Expo plans |
 | **docs / design** | `docs/design/` (RoundsRN) | RoundsRN2 visual system |
 
+
+| **docs / session / opus-feedback** |  | Opus advisories OPUS-01…03 (deploy + iOS topology) |
+
 ## Live vs mirror
 
 - **Live canvas (Cursor):** `~/.cursor/projects/Users-dabighomie-Management-Git/canvases/RoundsRN-session-picture-20260721.canvas.tsx`
