@@ -15,6 +15,11 @@ tags: [roundsrn, session-artifact, topology]
 **Live canvas (open beside chat):**
 `~/.cursor/projects/Users-dabighomie-Management-Git/canvases/RoundsRN-session-picture-20260721.canvas.tsx`
 
+**Repo mirror (FSD `docs/canvas`):**
+`docs/canvas/RoundsRN-session-picture-20260721.canvas.tsx`
+
+See `ARTIFACT-INDEX.md` for full FSD placement.
+
 ## One sentence
 
 Two agent-built Next.js study apps (Exam 1A + Exam 2) stay on branded `damieus.app`
