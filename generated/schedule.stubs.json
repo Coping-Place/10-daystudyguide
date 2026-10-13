@@ -1,0 +1,16 @@
+[
+  {
+    "day": 1,
+    "date": "Tue Jul 21",
+    "focus": "Week 1 Neuro assessment",
+    "tasks": "Read week 1 outline. Build flashcards.",
+    "system": "neuro"
+  },
+  {
+    "day": 2,
+    "date": "Thu Jul 23",
+    "focus": "Week 3 Stroke protocols",
+    "tasks": "Drill tPA numbers. Hand-authored questions stay in questions.json.",
+    "system": "neuro"
+  }
+]
