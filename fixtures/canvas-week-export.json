@@ -1,0 +1,23 @@
+{
+  "course": "NSG-example-term",
+  "note": "Fixture only. Not Capella FlexPath. Not a quiz bank.",
+  "weeks": [
+    {
+      "name": "Week 1 Neuro assessment",
+      "date": "Tue Jul 21",
+      "system": "neuro",
+      "tasks": "Read week 1 outline. Build flashcards."
+    },
+    {
+      "name": "Week 2 Knowledge Check",
+      "quiz_id": 12,
+      "is_quiz_assignment": true
+    },
+    {
+      "name": "Week 3 Stroke protocols",
+      "date": "Thu Jul 23",
+      "system": "neuro",
+      "tasks": "Drill tPA numbers. Hand-authored questions stay in questions.json."
+    }
+  ]
+}
